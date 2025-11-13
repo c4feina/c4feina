@@ -1,40 +1,46 @@
-# 👋 Hi, I'm Agustín Orieta
+# Hi 🌐, I'm Agustín Orieta
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-111827?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
 
 </div>
 
-## 🔐 Security-Focused Developer
+## ☠️ Junior Pentester & Security-Oriented Developer
 
-Backend developer with a passion for cybersecurity. I build tools that automate security workflows and actively hunt for vulnerabilities in bug bounty programs.
+I'm a backend developer with a strong focus on cybersecurity and ethical hacking.  
+I enjoy exploring systems, automating security tasks, and developing tools for reconnaissance and vulnerability assessment.  
+Currently expanding my experience in **Red Team** methodologies and **bug bounty programs**.
 
-### 🎯 Currently
+### 📚 Currently
 
-- 🐛 Bug bounty hunter on **HackerOne** & **Intigriti**
-- 🔨 Building automation tools for reconnaissance and vulnerability scanning
-- 🚀 Learning **FastAPI** for modern API development
-- 📚 Studying Computer Science at **UNAHUR**
+- Bug bounty hunter on **HackerOne** & **Intigriti**
+- Building automation tools for reconnaissance and vulnerability scanning
+- Learning **FastAPI** for modern API development
+- Preparing for **AWS** and **ISO 27001** certifications
+- Currently studying Computer Science and Technical Degree in Networks and IT Operations
 
 ### 🛠️ Tech Stack
 
 **Languages & Development**
 ```
 Python • Bash • SQL
-FastAPI • Flask • PostgreSQL
-Docker • Git • Linux
+FastAPI • Flask • MySQL
+Cloud • Git • Linux
 ```
 
 **Security & OSINT**
 ```
 Burp Suite • SQLMap • Metasploit • Nmap
-theHarvester • Sherlock • WhatWeb • PhoneInfoga
-OWASP Top 10 • Web Application Security
+theHarvester • Sherlock • Aircrack-ng • Maltego
+OWASP Top 10 • Web Application Security • Wireshark
 ```
 
 **Methodologies**
@@ -51,17 +57,9 @@ Bug Bounty Hunting • Penetration Testing • OSINT
 - Remote support and hardware/software maintenance
 - Network troubleshooting and system administration
 
-### 🌐 Languages
+### 🇦🇷 Languages
 
-🇬🇧 English (Conversational) • 🇧🇷 Português (Conversational) • 🇯🇵 日本語 (Conversational) • 🇫🇷 Français (Learning)
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=c4feina&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c4feina&layout=compact&theme=tokyonight&hide_border=true)
+Spanish (Native) • English (A2/B1) • Português (A2) • Japanese (N5) 
 
 </div>
 
@@ -78,9 +76,5 @@ Bug Bounty Hunting • Penetration Testing • OSINT
 ---
 
 <div align="center">
-
-💡 *"Breaking things to make them better"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=c4feina&color=blueviolet&style=flat-square)
 
 </div>

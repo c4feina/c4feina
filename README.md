@@ -1,45 +1,86 @@
-<h2 align="left">Hey there i'm c4feina!👋</h2>
+# 👋 Hi, I'm Agustín Orieta
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
+<div align="center">
 
-### 👨🏻‍💻 &nbsp;About Me
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-👨🏻‍💻 &nbsp;I’m self-taught, and I’ve been into tech since I was a kid especially offensive. /
-☕ &nbsp;I always have my cup of coffee with me when I’m logged in working online. /
-🎓 &nbsp;Currently studying Computer Engineering. /
-✍️ &nbsp;Always trying to learn a little bit of everything. /
+</div>
 
-<img alt="Night Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWdtcDg0aWxqZ2Z5N3Z2Z29oZ3dwb3ZhMW94N3ZwOTU0dGNzdGhqMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oZEBLugoTthxS/giphy.gif" align="right"/>
+## 🔐 Security-Focused Developer
 
-##### My Tech Stack & Skills
+Backend developer with a passion for cybersecurity. I build tools that automate security workflows and actively hunt for vulnerabilities in bug bounty programs.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bug_Bounty-DA291C?style=for-the-badge&logo=bugsnag&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cyber_Security-333333?style=for-the-badge&logo=shieldy&logoColor=white" />
-</p>
+### 🎯 Currently
 
-##### Operating Systems
-<p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white" />
-</p>
+- 🐛 Bug bounty hunter on **HackerOne** & **Intigriti**
+- 🔨 Building automation tools for reconnaissance and vulnerability scanning
+- 🚀 Learning **FastAPI** for modern API development
+- 📚 Studying Computer Science at **UNAHUR**
+
+### 🛠️ Tech Stack
+
+**Languages & Development**
+```
+Python • Bash • SQL
+FastAPI • Flask • PostgreSQL
+Docker • Git • Linux
+```
+
+**Security & OSINT**
+```
+Burp Suite • SQLMap • Metasploit • Nmap
+theHarvester • Sherlock • WhatWeb • PhoneInfoga
+OWASP Top 10 • Web Application Security
+```
+
+**Methodologies**
+```
+Reconnaissance → Exploitation → Post-Exploitation
+Bug Bounty Hunting • Penetration Testing • OSINT
+```
+
+### 💼 Experience
+
+**IT Support Specialist** @ Idearte Chapa  
+`Nov 2024 - Apr 2025`
+- Technical incident management using Jira
+- Remote support and hardware/software maintenance
+- Network troubleshooting and system administration
+
+### 🌐 Languages
+
+🇬🇧 English (Conversational) • 🇧🇷 Português (Conversational) • 🇯🇵 日本語 (Conversational) • 🇫🇷 Français (Learning)
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=c4feina&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c4feina&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+### 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aorieta)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agorieta@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/c4feina)
+
+</div>
 
 ---
 
+<div align="center">
 
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
- <img src= "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
- <img src= "https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white">
+💡 *"Breaking things to make them better"*
 
+![Profile Views](https://komarev.com/ghpvc/?username=c4feina&color=blueviolet&style=flat-square)
 
-
-
-</span>
+</div>

@@ -9,7 +9,7 @@
  ███     █  █     █████ ███ █   █ █   █   
 </pre>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2400&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=%3E+neural+link+established...;%3E+decrypting+identity+shard...;%3E+access+granted%3A+LEVEL_5_CLEARANCE;%3E+sinkhole_protocol+online+%E2%80%94+rerouting+traffic;%3E+capability+isolation%3A+enforced;%3E+welcome+to+the+grid%2C+operator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=%3E+pentesting+web+;%3E+backend+developer;%3E++cybersecurity+student;%3E+bug+hunter+%2F+htb+labs)](https://git.io/typing-svg)
 
 ![cyan-divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 

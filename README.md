@@ -27,7 +27,7 @@
   "faculty"     : "21 ",
   "stage"       : "cybersecurity track / backend dev — in progress",
   "focus"       : "pentesting web, java / spring, systems security",
-  "status"      : "learning :: building "
+  "status"      : "learning :: building"
 }
 ```
 
@@ -50,11 +50,12 @@
 ![UPLINK.CHANNELS](https://img.shields.io/badge/UPLINK.CHANNELS-00B8D9?style=for-the-badge&labelColor=0d1117)
 
 ```
-Login   :: s1nkhole
+Login   :: c4feina                                        
 Plan    :: break it → understand it → rebuild it better
 
-[Email]  :: s1nkhole@proton.me
-[GitHub] :: github.com/s1nkhole
+[Email]  :: c4feina@proton.me
+[GitHub] :: github.com/c4feina
+[LinkedIN] :: linkedin.in/aorieta
 ```
 
 <div align="center">

@@ -38,7 +38,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,linux,java,bash,docker,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,golang,linux,java,bash,docker,git&theme=dark)](https://skillicons.dev)
 
 ![Wireshark](https://img.shields.io/badge/WIRESHARK-006680?style=for-the-badge&logo=wireshark&logoColor=ffffff&labelColor=0d1117)
 ![GDB](https://img.shields.io/badge/GDB-00B8D9?style=for-the-badge&labelColor=0d1117)

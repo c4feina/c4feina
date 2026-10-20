@@ -22,33 +22,14 @@
 
 ```json
 {
-  "handle"      : "s1nkhole",
-  "sector"      : "Russia // meatspace",
-  "faculty"     : "School 21 [Sber / École 42 network]",
-  "stage"       : "cybersecurity track — in progress",
-  "focus"       : "malware analysis, reverse engineering, systems security",
+  "handle"      : "c4feina",
+  "sector"      : "Argentina",
+  "faculty"     : "21 ",
+  "stage"       : "cybersecurity track / backend dev — in progress",
+  "focus"       : "pentesting web, java / spring, systems security",
   "status"      : "learning :: building :: breaking things"
 }
 ```
-
-<details>
-<summary>🖥️ <code>guest@grid:~$</code> click to expand session log</summary>
-
-```
-guest@grid:~$ whoami
-s1nkhole
-
-guest@grid:~$ ./scan_target.sh --self
-[+] base       : RU
-[+] track      : School 21 — cybersecurity
-[+] focus      : malware analysis, reverse engineering, systems security
-[+] status     : ONLINE
-
-guest@grid:~$ cat /var/log/motto.txt
-"break it → understand it → rebuild it better"
-```
-
-</details>
 
 ---
 
@@ -57,7 +38,7 @@ guest@grid:~$ cat /var/log/motto.txt
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,bash,arch,docker,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,c#,java,bash,arch,docker,git&theme=dark)](https://skillicons.dev)
 
 ![Wireshark](https://img.shields.io/badge/WIRESHARK-006680?style=for-the-badge&logo=wireshark&logoColor=ffffff&labelColor=0d1117)
 ![GDB](https://img.shields.io/badge/GDB-00B8D9?style=for-the-badge&labelColor=0d1117)

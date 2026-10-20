@@ -27,7 +27,7 @@
   "faculty"     : "21 ",
   "stage"       : "cybersecurity track / backend dev — in progress",
   "focus"       : "pentesting web, java / spring, systems security",
-  "status"      : "learning :: building :: breaking things"
+  "status"      : "learning :: building "
 }
 ```
 
@@ -43,40 +43,6 @@
 </div>
 
 ---
-
-<!-- PROJECTS -->
-![ACTIVE_PROCESSES](https://img.shields.io/badge/ACTIVE_PROCESSES-00B8D9?style=for-the-badge&labelColor=0d1117)
-
-```
-PID   NAME                  ACCESS    STATUS       DESCRIPTION
-0x01  s21-networking-01     PUBLIC    [COMPLETE]   VLSM subnetting, GNS3, Wireshark capture analysis
-0x02  ctf-lens              PUBLIC    [ACTIVE]     CTF forensics file-analysis toolkit // Python
-0x03  CapGuardOS            PRIVATE   [BUILDING]   capability-based microkernel OS on seL4
-0x04  warped-chess-forge    PRIVATE   [BUILDING]   modular chess-variant engine // C++ / MCTS
-0x05  go-trojan-analysis    PRIVATE   [COMPLETE]   static analysis writeup of a real Go-based trojan
-```
-
-<div align="center">
-
-📡 [`s21-project-01-networking-gns3-wireshark`](https://github.com/s1nkhole/s21-project-01-networking-gns3-wireshark) · 🔍 [`ctf-lens`](https://github.com/s1nkhole/ctf-lens)
-
-</div>
-
-> `CapGuardOS` · `warped-chess-forge` · `go-based-trojan-static-analysis` — private repositories, architecture details and findings are not disclosed publicly.
-
----
-
-<!-- THREAT MODEL -->
-![TARGETS.CONF](https://img.shields.io/badge/TARGETS.CONF-00B8D9?style=for-the-badge&labelColor=0d1117)
-
-```ini
-[interests]
-malware_analysis    = ONLINE   ; static analysis, behavioral fingerprinting, RE
-capability_security = ONLINE   ; capability-based isolation, microkernel design
-ctf                 = ONLINE   ; forensics, stego, crypto, pwn
-hardware_hacking    = ACTIVE   ; ESP32, DSP chains, embedded electronics
-networking          = ONLINE   ; VLSM, routing, GNS3, packet analysis
-```
 
 ---
 

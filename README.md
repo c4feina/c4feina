@@ -40,13 +40,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,golang,linux,java,bash,docker,git&theme=dark)](https://skillicons.dev)
 
-![Wireshark](https://img.shields.io/badge/WIRESHARK-006680?style=for-the-badge&logo=wireshark&logoColor=ffffff&labelColor=0d1117)
-![GDB](https://img.shields.io/badge/GDB-00B8D9?style=for-the-badge&labelColor=0d1117)
-![Ghidra](https://img.shields.io/badge/GHIDRA-00E5FF?style=for-the-badge&labelColor=0d1117)
-![radare2](https://img.shields.io/badge/RADARE2-0d1117?style=for-the-badge&labelColor=00B8D9)
-![Wazuh](https://img.shields.io/badge/WAZUH_SIEM-00A9E0?style=for-the-badge&labelColor=0d1117)
-![seL4](https://img.shields.io/badge/seL4_MICROKERNEL-00E5FF?style=for-the-badge&labelColor=0d1117)
-
 </div>
 
 ---

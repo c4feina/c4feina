@@ -2,12 +2,11 @@
 <div align="center">
 
 <pre align="center">
- _____ _       _     _           _      
-/  ___(_)     | |   | |         | |     
-\ `--. _ _ __ | | __| |__   ___ | | ___ 
- `--. \ | '_ \| |/ /| '_ \ / _ \| |/ _ \
-/\__/ / | | | |   < | | | | (_) | |  __/
-\____/|_|_| |_|_|\_\|_| |_|\___/|_|\___|
+     ███  █  █  █████ █████ ███ █   █  ███  
+   █     █  █  █     █      █  ██  █ █   █  
+  █     █████ ████  ████   █  █ █ █ █████   
+ █        █  █     █      █  █  ██ █   █    
+ ███     █  █     █████ ███ █   █ █   █   
 </pre>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2400&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=%3E+neural+link+established...;%3E+decrypting+identity+shard...;%3E+access+granted%3A+LEVEL_5_CLEARANCE;%3E+sinkhole_protocol+online+%E2%80%94+rerouting+traffic;%3E+capability+isolation%3A+enforced;%3E+welcome+to+the+grid%2C+operator)](https://git.io/typing-svg)

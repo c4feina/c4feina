@@ -24,7 +24,7 @@
 {
   "handle"      : "c4feina",
   "sector"      : "Argentina",
-  "life"        : "one piece",
+  "life"        : "hacking",
   "stage"       : "cybersecurity track / backend dev — in progress",
   "focus"       : "pentesting web, java / spring, systems security",
   "status"      : "learning :: building"
